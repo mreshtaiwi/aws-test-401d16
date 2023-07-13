@@ -22,5 +22,5 @@ jobs:
           application_name: github-aws
           environment_name: Github-aws-env
           version_label: 12345678
-          region: us-west-1
+          region: us-east-1
           deployment_package: deploy.zip
